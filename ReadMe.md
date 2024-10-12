@@ -32,7 +32,7 @@ Citizen is the first
 
 #
 ## Important/Live Hosted Project Links
-- **Hosted URL** > [https://Citizen.on.fleek.co/]()
+- **Hosted URL** > [https://citizen.on-fleek.app/](https://citizen.on-fleek.app/)
 
 - **Github** > [https://github.com/Metastuc/Citi_Dapp](https://github.com/Metastuc/Citi_Dapp)
 
