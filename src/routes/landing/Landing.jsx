@@ -21,7 +21,6 @@ import {
     Identity,
     EthBalance, 
   } from '@coinbase/onchainkit/identity';
-import { truncateWalletAddress } from "../../lib/truncate-address";
 import { useAccount } from "wagmi";
 
 const Landing = () => {
