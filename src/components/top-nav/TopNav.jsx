@@ -72,7 +72,7 @@ const TopNav = () => {
 
                     <div>
                     <Wallet>
-  <ConnectWallet>
+  <ConnectWallet className='bg-lime-400'>
     <Avatar sizes="1"/>
     <Name />
   </ConnectWallet>
