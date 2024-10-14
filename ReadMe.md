@@ -39,12 +39,14 @@ Citizen is the first
 
 #
 > ## Problem Statement
-
-Citizen seeks ... <b style="color:orange">secure, through ...</b>, accessible  and safe . 
-<b style="color:orange">biggest archive</b> for research ...
-
-[see solution here](#solution)
-
+~ Transparency in Decision-Making: Existing DAO 
+governance frameworks often lack transparency, 
+hindering community trust and participation in crucial 
+decision-making processes.
+~Inefficient Delegation Processes: Delegating voting
+power within DAOs is often inefficient and opaque, 
+leading to suboptimal outcomes and disenfranchising
+stakeholders from the decision-making process.
 #
 > ## How it works
 ***Note:*** <b style="color:orange">All daos and their ...</b>
