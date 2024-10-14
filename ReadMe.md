@@ -99,7 +99,7 @@ Drive engagement and accountability within DAO operations with
 comprehensive analytics providing insights for informed 
 decision-making.
 <p><b style="color: orange">
-In the nearest of time </b>...
+ </b>...
 </p>
 
 
