@@ -48,7 +48,7 @@ leading to suboptimal outcomes and disenfranchising
 stakeholders from the decision-making process.
 #
 > ## How it works
-***Note:*** <b style="color:orange">All daos and their ...</b>
+***Note:*** <b style="color:orange"> Effortlessly create a community for your DAO,create proposals and define the metrics and conditions,members can vote,delegate and participate actively by making their decisions onchain ...</b>
 
 <b style="color:orange">When uploading...</b> the details are ... <b style="color:red">This ...</b> is then sent ...
 
