@@ -90,7 +90,14 @@ stakeholders from the decision-making process.
 
 #
 > ## Solution
-<p>Citizen has built a system where ...</p>
+<p>Empower community voices with transparent on-chain voting and
+delegation mechanisms, fostering inclusive decision-making in 
+DAO governance. ...</p>
+Enhance transparency and trust through secure, auditable voting 
+protocols ensuring integrity in proposal evaluation and execution.
+Drive engagement and accountability within DAO operations with
+comprehensive analytics providing insights for informed 
+decision-making.
 <p><b style="color: orange">
 In the nearest of time </b>...
 </p>
