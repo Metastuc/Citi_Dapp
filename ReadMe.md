@@ -106,7 +106,9 @@ In the nearest of time...
 
 #
 > ## Why Citizen - 
-<p><b style="color:orange">Citizen usecase</b>Citizen is... 
+<p><b style="color:orange">Citizen usecase</b>Citizen is Promoting community engagement in DAO governance and 
+decision making, onchain, transparent voting and delegations.
+citizin is a decentralized and multichain access platform .... 
 </p>
 
 #
