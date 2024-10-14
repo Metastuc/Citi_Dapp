@@ -103,9 +103,6 @@ decision-making.
 </p>
 
 
-<p><b style="color:orange">Through Citizen - </b>
-In the nearest of time... 
-</p>
 
 
 #
@@ -118,7 +115,12 @@ citizin is a decentralized and multichain access platform ....
 #
 ## Project features
 - Doa Governance Proposal Listing
-- 
+- Seamless Multichain Access: Access our DAO governance platform 
+across multiple blockchain networks, ensuring inclusivity and
+accessibility for all users.
+-Transparent On-Chain Voting: Engage community members in 
+decision-making through transparent, decentralized voting 
+mechanisms for proposals on our platform.
 
 
 #
