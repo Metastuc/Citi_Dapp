@@ -23,9 +23,8 @@
 #
 > ## Project Description
 
-<p><b style="color:orange">Citizen is a decentralised 
-Citizen is the first
-</b> Proposals ...
+<p><b style="color:orange">Citizen is a decentralised,Onchain decision making&operations dapp 
+</b> DAOs can create and manage proposals easily,proliferating engaged decison making and governance ...
 
 <b style="color:orange">Citizen</b> Dapp is free and easy 
 </p>
