@@ -124,7 +124,7 @@ body {
         background: transparent;
     }
 
-    .container {
+    .app {
         @include breakpoint-max($tablet) {
             // below 768px
             display: none;
